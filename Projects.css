@@ -1,0 +1,12 @@
+.title-headings{
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    font-weight: 10px;
+
+}
+
+.title-headings h1{
+    color: yellow;
+}

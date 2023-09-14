@@ -1,0 +1,27 @@
+.Header-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 100%;
+    height: 90px;
+    z-index: 10;
+
+}
+
+.skill-sets{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+    padding-right: 4rem;
+}
+.skill-sets h1{
+    color: yellow !important;
+}
+.skill-sets ul{
+    font-size: 20px;
+    margin: 20px;
+    padding: 20px;
+    font-weight: 30;
+}
